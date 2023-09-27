@@ -11,9 +11,9 @@ redirect_from:
 ![Brain GIF](/images/my_brain.gif){: .align-right width="300px"}
 🏛️ I am a first year [MRC Advanced Interdisciplinary Methods (AIM) DTP](https://more.bham.ac.uk/mrc-aim/) PhD student based at the [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx), University of Birmingham.
 
-🧠 My research interests involve using a combination of behavioural tasks, computational modelling and neuroimaging to both understand social decision-making and to inform precision-based treatment of mental health disorders.
+🧠 My research interests involve using a combination of behavioural tasks, computational modelling and neuroimaging to understand social decision-making, and using this knowledge to inform the precision-based treatment of mental health disorders.
 
-Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/about/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
+Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
 
 🌍 🏳️‍🌈 🌐 I am also passionate about facilitating inclusivity and diversity in academia, as well as promoting open and reproducible science. 
  

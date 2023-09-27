@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Aamir Sohail"
   avatar           : "profile_pic_2.png"
-  bio              : "MRC AIM PhD Student at the University of Birmingham"
+  bio              : "MRC AIM PhD Candidate"
   location         : "Birmingham, UK"
   employer         : "University of Birmingham"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "axs2210@student.bham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
