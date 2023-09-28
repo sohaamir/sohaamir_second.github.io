@@ -13,6 +13,18 @@ collection: portfolio
 
 🍫 🍪 Ultimately, we aim to demonstrate changes in the contribution of the snack attributes (pleasure, nutrition and value) towards choice in each of the conditions, and importantly, to demonstrate that self-reported preferences of snack choice are not compatible with chocies predicted by the models. Subsequently, this will reinforce the notion that self-reported methods are incompatible when predicting consumer choice.
 
-References: 
+🕰️ Results/publications and open-access data coming soon!
+
+**References::** 
 
 1) Lee, D. G., & Hare, T. A. (2023). Value certainty and choice confidence are multidimensional constructs that guide decision-making. Cognitive, Affective, & Behavioral Neuroscience, 1-19. 
+
+# 🌐 Team: 
+
+**University of Reading:**
+[Professor Anastasia Christakou](https://anastasia.christakou.org/) (Centre for Integrative Neuroscience and Neurodynamics, PI)
+[Dr Nico Biagi](https://www.henley.ac.uk/people/nico-biagi) (Henley Business School)
+
+**External:**
+[Dr Todd Hare](https://www.econ.uzh.ch/en/people/faculty/hare.html) (University of Zurich)
+[Dr Douglas Lee](https://scholar.google.com/citations?user=n3os1nAAAAAJ&hl=en) (Tel Aviv University)
