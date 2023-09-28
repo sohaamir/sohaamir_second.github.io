@@ -15,7 +15,7 @@ collection: portfolio
 
 🕰️ Results/publications and open-access data coming soon!
 
-**References::** 
+**References:** 
 
 1) Lee, D. G., & Hare, T. A. (2023). Value certainty and choice confidence are multidimensional constructs that guide decision-making. Cognitive, Affective, & Behavioral Neuroscience, 1-19. 
 
