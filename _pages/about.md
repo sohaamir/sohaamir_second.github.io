@@ -22,13 +22,13 @@ I completed a BSc in Biomedical Science at Imperial College London, with my fina
 
 Outside of work I enjoy playing snooker 🎱 (high break of 63), going on long meandering walks 🚶, watching cricket 🏏 and listening to music 🎶
 
-# ✉️ 🙋 Contact Me
+# ✉️ Contact Me
 
 Please do not hesitate to contact me if you would like to inquire about opportunities, collaborations, or to just have a chat! I will try to respond as soon as I can 😊 
 
 **Address:**
 
-Room 110
+Room 110  
 Centre for Human Brain Health  
 School of Psychology  
 University of Birmingham  
@@ -40,7 +40,7 @@ UK
 **Location:**
 
 <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2400.474671121059!2d-1.9320517841603453!3d52.44912697978769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bd9b0ed80bf5%3A0xa1d5e13147c14862!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1632971988278!5m2!1sen!2suk"
+  src="https://www.google.com/maps/place/Centre+for+Human+Brain+Health/@52.4535496,-1.9272804,15z/data=!4m6!3m5!1s0x4870bde470f7c04d:0x583b0469e1755681!8m2!3d52.4535496!4d-1.9272804!16s%2Fg%2F11fl76sv_n?entry=ttu"
   width="600"
   height="450"
   style="border:0;"

@@ -16,8 +16,10 @@ Therefore, in this project we re-analysed data from a reversal learning task, pe
 # 🌐 Team: 
 
 **University of Reading:**
-[Professor Anastasia Christakou](https://anastasia.christakou.org/) (Centre for Integrative Neuroscience and Neurodynamics)
-[Dr Gabriella Rossetti](https://research.reading.ac.uk/cinn/gabs-rossetti/) (Centre for Integrative Neuroscience and Neurodynamics)
+
+[Professor Anastasia Christakou](https://anastasia.christakou.org/) (Centre for Integrative Neuroscience and Neurodynamics)  
+[Dr Gabriella Rossetti](https://research.reading.ac.uk/cinn/gabs-rossetti/) (Centre for Integrative Neuroscience and Neurodynamics)  
 
 **External:**
-[Dr Tiffany Bell](https://www.ucalgary.ca/node/339240) (University of Calgary)
+
+[Dr Tiffany Bell](https://www.ucalgary.ca/node/339240) (University of Calgary)  

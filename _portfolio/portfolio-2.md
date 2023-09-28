@@ -22,9 +22,11 @@ collection: portfolio
 # 🌐 Team: 
 
 **University of Reading:**
-[Professor Anastasia Christakou](https://anastasia.christakou.org/) (Centre for Integrative Neuroscience and Neurodynamics, PI)
-[Dr Nico Biagi](https://www.henley.ac.uk/people/nico-biagi) (Henley Business School)
+
+[Professor Anastasia Christakou](https://anastasia.christakou.org/) (Centre for Integrative Neuroscience and Neurodynamics, PI)  
+[Dr Nico Biagi](https://www.henley.ac.uk/people/nico-biagi) (Henley Business School)  
 
 **External:**
-[Dr Todd Hare](https://www.econ.uzh.ch/en/people/faculty/hare.html) (University of Zurich)
-[Dr Douglas Lee](https://scholar.google.com/citations?user=n3os1nAAAAAJ&hl=en) (Tel Aviv University)
+
+[Dr Todd Hare](https://www.econ.uzh.ch/en/people/faculty/hare.html) (University of Zurich)  
+[Dr Douglas Lee](https://scholar.google.com/citations?user=n3os1nAAAAAJ&hl=en) (Tel Aviv University)  
