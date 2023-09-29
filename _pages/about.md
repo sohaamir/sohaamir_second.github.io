@@ -20,13 +20,13 @@ Reflecting this, my PhD aims to use these methods to identify the neurocomputati
 # 📕 Quick Bio 
 I completed a BSc in Biomedical Science at Imperial College London, with my final-year project supervised by [Professor Anne Lingford-Hughes](https://www.imperial.ac.uk/people/anne.lingford-hughes) and [Dr Sam Turton](https://www.imperial.ac.uk/people/s.turton), followed by an MSc in Brain Imaging at the University of Nottingham under the supervision of [Dr Jan Derrfuss](https://www.nottingham.ac.uk/psychology/people/jan.derrfuss) and [Dr Claudia Danielmeier](https://www.nottingham.ac.uk/psychology/people/claudia.danielmeier). I then worked as research and administrative support at the Centre for Integrative Neuroscience and Neurodynamics (CINN) at the University of Reading under [Professor Anastasia Christakou](https://anastasia.christakou.org/). 
 
-Outside of work I enjoy playing snooker 🎱 (high break of 63), going on long meandering walks 🚶, watching cricket 🏏 and listening to music 🎶
+Outside of work I enjoy playing snooker 🎱 (high break of 63), going on meandering walks 🚶, watching cricket 🏏 and listening to music 🎶
 
 # ✉️ Contact Me
 
 Please do not hesitate to contact me if you would like to inquire about opportunities, collaborations, or to just have a chat! I will try to respond to you as soon as I can 😊 
   
-<img src="/images/earth.gif" alt="Earth GIF" width="200px" height="200px" align="right">
+<img src="/images/earth.gif" alt="Earth GIF" width="250px" height="250px" align="right">
 
 **Address:**  
 Room 110  
@@ -46,6 +46,7 @@ UK
 
   
 
+  
 **Contact Form:**
 
 <form
