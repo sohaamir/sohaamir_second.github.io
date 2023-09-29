@@ -26,10 +26,10 @@ Outside of work I enjoy playing snooker 🎱 (high break of 63), going on long m
 
 Please do not hesitate to contact me if you would like to inquire about opportunities, collaborations, or to just have a chat! I will try to respond to you as soon as I can 😊 
   
-![Earth GIF](/images/earth.gif){: .align-right width="300px"}  
+<img src="/images/earth.gif" alt="Earth GIF" width="200px" height="200px" align="right">
 
 **Address:**  
-Room 110 
+Room 110  
 Centre for Human Brain Health  
 School of Psychology  
 University of Birmingham  
@@ -37,19 +37,25 @@ Edgbaston
 Birmingham  
 B15 2TT  
 UK
+
   
 
 **Location:**
 <iframe
-  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9725.651522662583!2d-1.9272804!3d52.4535496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bde470f7c04d%3A0x583b0469e1755681!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1695917516555!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9725.651522662583!2d-1.9272804!3d52.4535496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bde470f7c04d%3A0x583b0469e1755681!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1695917516555!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+
   
-  
+
 **Contact Form:**
 
 <form
   action="https://formspree.io/f/xpzgowwz"
   method="POST"
 >
+  <label>
+    Your name:
+    <input type="text" name="name">
+  </label>
   <label>
     Your email:
     <input type="email" name="email">
@@ -58,6 +64,5 @@ UK
     Your message:
     <textarea name="message"></textarea>
   </label>
-  <!-- your other form fields go here -->
   <button type="submit">Send message</button>
 </form>

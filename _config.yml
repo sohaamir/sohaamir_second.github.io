@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aamir's Website"
+title                    : "Aamir's Personal Website"
 title_separator          : "-"
 name                     : &name "Aamir Sohail"
 description              : &description "personal description"
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

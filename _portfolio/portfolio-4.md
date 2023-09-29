@@ -22,3 +22,5 @@ collection: portfolio
 [Dr Brendan Williams](https://neurobren.com/) (Centre for Integrative Neuroscience and Neurodynamics)  
 [Dr Gabriella Rossetti](https://research.reading.ac.uk/cinn/gabs-rossetti/) (Centre for Integrative Neuroscience and Neurodynamics)  
 [Dr Shan Shen](https://www.reading.ac.uk/technical-services/meet-the-team/shan-shen) (Centre for Integrative Neuroscience and Neurodynamics)  
+  
+(Images courtesy of Dr Brendan Williams)

@@ -21,3 +21,5 @@ collection: portfolio
 [Professor Jon Gibbins](https://www.reading.ac.uk/biomedical-sciences/staff/jon-gibbins) (Institute for Cardiovascular and Metabolic Research)  
 [Professor Julie Lovegrove](https://www.reading.ac.uk/food/our-staff/julie-lovegrove) (Hugh Sinclair Unit for Human Nutrition)  
 [Dr Joanne Dunster](https://www.reading.ac.uk/maths-and-stats/staff/joanne-dunster) (Department of Mathematics and Statistics)  
+  
+(Images courtesy of Dr Gabriella Rossetti)
