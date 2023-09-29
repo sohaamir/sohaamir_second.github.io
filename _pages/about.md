@@ -43,10 +43,9 @@ UK
 **Location:**
 <iframe
   src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9725.651522662583!2d-1.9272804!3d52.4535496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bde470f7c04d%3A0x583b0469e1755681!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1695917516555!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
-
-  
-
-  
+<br>
+<br>
+<br>
 **Contact Form:**
 
 <form
