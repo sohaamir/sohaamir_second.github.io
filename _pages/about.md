@@ -7,13 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![Brain GIF](/images/my_brain.gif){: .align-right width="300px"}
+  
+<div style="float: right; margin-left: 10px;">
+  <img src="/images/my_brain.gif" alt="Brain GIF" width="250" height="250">
+</div>
+  
 🏛️ I am a first year [MRC Advanced Interdisciplinary Methods (AIM) DTP](https://more.bham.ac.uk/mrc-aim/) PhD student based at the [Centre for Human Brain Health (CHBH)](https://www.birmingham.ac.uk/research/centre-for-human-brain-health/index.aspx), University of Birmingham.
 
 🧠 My research interests involve using a combination of behavioural tasks, computational modelling and neuroimaging to understand social decision-making, and using this knowledge to inform the precision-based treatment of mental health disorders.
-
-Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
+  
+🎓 Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
 
 🌍 🏳️‍🌈 🌐 I am also passionate about facilitating inclusivity and diversity in academia, as well as promoting open and reproducible science. 
  
@@ -42,10 +45,13 @@ UK
 
 **Location:**
 <iframe
-  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9725.651522662583!2d-1.9272804!3d52.4535496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bde470f7c04d%3A0x583b0469e1755681!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1695917516555!5m2!1sen!2suk" width="800" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9725.651522662583!2d-1.9272804!3d52.4535496!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4870bde470f7c04d%3A0x583b0469e1755681!2sCentre%20for%20Human%20Brain%20Health!5e0!3m2!1sen!2suk!4v1695917516555!5m2!1sen!2suk" width="850" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
 <br>
-<br>
-**Contact Form:**
+
+
+<div style="text-align: center;">
+  <img src="/images/any_questions.png" alt="Any Questions" width="300" height="300">
+</div>
 
 <form
   action="https://formspree.io/f/xpzgowwz"
