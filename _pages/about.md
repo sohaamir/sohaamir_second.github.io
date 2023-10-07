@@ -16,7 +16,7 @@ redirect_from:
 
 🧠 My research interests involve using a combination of behavioural tasks, computational modelling and neuroimaging to understand social decision-making, and using this knowledge to inform the precision-based treatment of mental health disorders.
   
-🎓 Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
+🎓 Reflecting this, my PhD aims to use these methods to identify the neurocomputational mechanisms and associated brain regions affecting learning in social anxiety, and in a novel initiative, attempt to alleviate these changes using an mobile app-based cognitive therapy program. I am supervised by [Dr Lei Zhang](https://lei-zhang.net/) and [Dr Patricia Lockwood](https://www.birmingham.ac.uk/staff/profiles/psychology/lockwood-patricia.aspx) (University of Birmingham), [Professor Mark Haselgrove](https://www.nottingham.ac.uk/psychology/people/mark.haselgrove) (University of Nottingham) and [Dr Jessica McFadyen](https://jjmcfadyen.github.io/) (Alena).
 
 🌍 🏳️‍🌈 🌐 I am also passionate about facilitating inclusivity and diversity in academia, as well as promoting open and reproducible science. 
  
@@ -25,7 +25,7 @@ I completed a BSc in Biomedical Science at Imperial College London, with my fina
 
 Outside of work I enjoy playing snooker 🎱 (high break of 63), going on meandering walks 🚶, watching cricket 🏏 and listening to music 🎶
   
-[Click here](https://github.com/sohaamir/my_brain){: .btn--research} to see some NIFTIs and GIFS of my 🧠 (T1 and WMN T1)
+[Click here](https://github.com/sohaamir/my_brain){: .btn--research} to see some NIFTIs and GIFS of my 🧠 (That's a GIF of my white-matter nulled T1 above)
 
 # ✉️ Contact Me
 

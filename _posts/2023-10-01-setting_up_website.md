@@ -3,10 +3,11 @@ title: 'Setting up an academic website: a guide for absolute beginners'
 date: 2023-10-01
 permalink: /posts/2023/09/setting_up_website_guide/
 tags:
-  - Guide
+  - Programming
+  - Development
 ---
 
-Let's say you just started a new position (maybe as a PhD student) and would like to create an academic website, as seems to be all the rage nowadays. However, are relatively new to programming, and are unsure on where to even get started.Creating a website can seem to be a daunting task, but the initial steps to creating a basic website is actually quite simple (even a numbskull like myself can do it!). This post will cover all of the steps that you need in order to create the base for an academic website using the academicpages template.
+_Let's say you just started a new position (maybe as a PhD student) and would like to create an academic website, as seems to be all the rage nowadays. However, are relatively new to programming, and are unsure on where to even get started.Creating a website can seem to be a daunting task, but the initial steps to creating a basic website is actually quite simple (even a numbskull like myself can do it!). This post will cover all of the steps that you need in order to create the base for an academic website using the academicpages template._
 
 <div style="text-align: center;">
   <img src="/images/posts/website_guide/typing.gif" alt="Typing GIF" width="600" height="250">
@@ -354,3 +355,7 @@ And that's it! Your GitHub repository should then update with your local changes
 <div style="text-align: center;">
   <img src='/images/posts/website_guide/github_screenshot.png' alt='GitHub screenshot' width='700' height='700'>
 </div>
+
+Add: 
+- Picture going across all pages
+- Content pages for posts
