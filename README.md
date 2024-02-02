@@ -1,14 +1,5 @@
-# Aamir Sohail's Personal website
+# Aamir Sohail's inital personal website 🌐
 
-Built using the [remote theme template](https://github.com/mmistakes/mm-github-pages-starter) for the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This is the intial version of my personal website that I built using the [remote theme template](https://github.com/mmistakes/mm-github-pages-starter) for the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-For additional changes I have made to the original template, and instructions on how to do the same to your website, please see the following [blog post:](https://sohaamir.github.io/posts/2023/09/setting_up_website_guide/) 
-
-
-
- __        __   _                            _                                         _         _ _       _ 
- \ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___    _ __ ___  _   _  __      _____| |__  ___(_) |_ ___| |
-  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | '_ ` _ \| | | | \ \ /\ / / _ \ '_ \/ __| | __/ _ \ |
-   \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | | | | | | |_| |  \ V  V /  __/ |_) \__ \ | ||  __/_|
-    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_| |_|\__, |   \_/\_/ \___|_.__/|___/_|\__\___(_)
-                                                                  |___/                                      
+After discovering the (in my opinion more visually appealing) website template provided by [ai-folio](https://github.com/alshedivat/al-folio), I ended up shelving this one and making a new one, which you can find [here](https://sohaamir.github.io/). I have decided to keep this repo open as a public archive instead of deleting it outright, to 1) make sure that my effort of making the website was not in vain, and 2) to keep it as a reminder that it is ok to shelve projects if you find a better alternative!
